@@ -3,5 +3,6 @@
     "arrowParens": "avoid",
     "tabWidth": 4,
     "proseWrap": "always",
-    "singleQuote": true
+    "singleQuote": true,
+    "printWidth": 100
 }
